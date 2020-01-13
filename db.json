@@ -1,0 +1,57 @@
+{
+  "dataForHeader": {
+    "logo": "./images/shop_logo.gif",
+    "menuItems": [
+      {
+        "menuItem": "Catalog",
+        "link": "/catalog"
+      }
+    ]
+  },
+  "dataForMain": {
+    "headOfShop": "Аксесcуары для дома",
+    "descriptionOfShop": "У нас можно найти любой товар, а если не нашли пишите нам и мы сделаем его для Вас!",
+    "product": [
+      {
+        "id": "1",
+        "img": "./images/goods/vase.jpeg",
+        "name": "Декоративная ваза",
+        "price": "12.99"
+      },
+      {
+        "id": "2",
+        "img": "./images/goods/pillow.jpg",
+        "name": "Пуховые подушки",
+        "price": "20"
+      },
+      {
+        "id": "3",
+        "img": "./images/goods/chair.jpg",
+        "name": "Стул",
+        "price": "49.99"
+      },
+      {
+        "id": "4",
+        "img": "./images/goods/table.jpg",
+        "name": "Стол",
+        "price": "89.99"
+      },
+      {
+        "id": "5",
+        "img": "./images/goods/lamp.png",
+        "name": "Светильник",
+        "price": "30"
+      },
+      {
+        "id": "6",
+        "img": "./images/goods/pillowForChair.jpg",
+        "name": "Подушка для стула",
+        "price": "10"
+      }
+    ],
+    "infoForSectionAboutUs": {
+      "image": "./images/aboutUs.jpg",
+      "text": "Важно всегда помнить о том, что дизайн и функция – это взаимосвязанные и неразрывные понятия: умелое сочетание этих вещей не является панацеей, так как оформление интерьера строится на понимании ваших действий и каждодневных рутин, которые происходят в помещении."
+    }
+  }
+}
