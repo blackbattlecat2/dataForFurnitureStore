@@ -1,6 +1,6 @@
 {
   "dataForHeader": {
-    "logo": "./images/shop_logo.gif",
+    "logo": "../data/images/shop_logo.gif",
     "menuItems": [
       {
         "menuItem": "Catalog",
